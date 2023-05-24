@@ -1,0 +1,22 @@
+button
+{
+    height:36px;
+    border-radius: 5px;
+    font-family: 'Zeyada', cursive;
+    font-size: 24px;
+    align-items: left;
+    background-image:linear-gradient(to bottom, #9279ba, #b9a5e2, #9279ba,#bca4e3,#745e96);
+    box-shadow: 0 2px 10px rgb(2, 2, 2);
+}
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    align-items: center;
+    background: #c0d3ff;
+}
+.copy-right-footer{
+    background-image:linear-gradient(to right top, blue,darkturquoise, blue, lightblue, darkturquoise);
+    color:orangered;
+    position:fixed;
+    width: 265px;
+    border-radius: 20px;
+  }
